@@ -3,6 +3,7 @@ Rave_Stims_HealthBoost
 Rave_Stims_SteadyHands
 Rave_Stims_HemostaticDrug
 Rave_Stims_JunkyBeans
+Rave_Stims_JunkyLegs
 
 
 
